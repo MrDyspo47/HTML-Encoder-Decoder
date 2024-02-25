@@ -2,10 +2,10 @@
 
 
 ## Commands / Help
--e or encode : To encode 
--d or decode : To decode
--q or quit : To leave the program
--h or help : To get help while in the program
+-e or encode : To encode \n
+-d or decode : To decode \n
+-q or quit : To leave the program \n
+-h or help : To get help while in the program \n
 
 
 
