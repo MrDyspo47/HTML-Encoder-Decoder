@@ -11,11 +11,11 @@ Simple Encoder / Decoder for turning strings like hello into %68%65%6C%6C%6F
 
 ## How to Run 
 
-Just Install The Code <br>
-Press Your Windows Key <br>
-Type CMD <br>
-Find Where You Downloaded The File and Drop It Into The Terminal , Press Enter <br>
-Then Type [ python main.py ] <br>
+First Install The Code <br>
+Then Press Your Windows Key <br>
+Next Type CMD <br>
+After That Find Where You Downloaded The File and Drop It Into The Terminal , Press Enter <br>
+Finally Type [ python main.py ] & Press Enter<br>
 
 
 Author : MrDyspo47
