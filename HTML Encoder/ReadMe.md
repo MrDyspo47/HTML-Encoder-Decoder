@@ -1,4 +1,6 @@
-# HTML Encoder
+# HTML Encoder/Decoder
+
+Simple Encoder / Decoder for turning strings like hello into %68%65%6C%6C%6F
 
 
 ## Commands / Help
